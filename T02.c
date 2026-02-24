@@ -43,7 +43,7 @@ int main() {
         scanf("%d", &pilih[i]);
     }
 
-    // Output hasil
+
     printf("\n=== HASIL PILIHAN ===\n");
     for(int i = 0; i < k; i++) {
         if(pilih[i] >= 1 && pilih[i] <= n) {
